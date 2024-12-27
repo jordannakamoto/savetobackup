@@ -1,0 +1,26 @@
+[
+    {
+        "type": "File",
+        "name": "/Users/jordannakamoto/Documents/SaveToBackup/savetobackup/vsc-extension-quickstart.md",
+        "parent_id": null,
+        "workspaceRoot": "/Users/jordannakamoto/Documents/SaveToBackup/savetobackup",
+        "workspacePath": "vsc-extension-quickstart.md",
+        "id": "G6bOMpWqiIrLJScZ"
+    },
+    {
+        "type": "File",
+        "name": "/Users/jordannakamoto/Documents/SaveToBackup/savetobackup/eslint.config.mjs",
+        "parent_id": null,
+        "workspaceRoot": "/Users/jordannakamoto/Documents/SaveToBackup/savetobackup",
+        "workspacePath": "eslint.config.mjs",
+        "id": "nQhIDUZHgTa3928C"
+    },
+    {
+        "type": "File",
+        "name": "/Users/jordannakamoto/Documents/SaveToBackup/savetobackup/extension_copy.ts",
+        "parent_id": null,
+        "workspaceRoot": "/Users/jordannakamoto/Documents/SaveToBackup/savetobackup",
+        "workspacePath": "extension_copy.ts",
+        "id": "XuV9eLAQblFPhUDw"
+    }
+]

@@ -1,0 +1,56 @@
+{
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "variable",
+                    "entity.name.function",
+                    "entity.name.type.class",
+                    "keyword",
+                    "constant",
+                    "string",
+                    "storage.modifier",
+                    "storage.type.class.js",
+                    "storage.type.js"
+                ],
+                "settings": {
+                    "fontStyle": "italic"
+                }
+            },
+            {
+                "scope": [
+                    "storage.type.js"
+                ],
+                "settings": {
+                    "foreground": "#414246"
+                }
+            },
+            {
+                "scope": [
+                    "constant.numeric"
+                ],
+                "settings": {
+                    "foreground": "#d2d2d2"
+                }
+            },
+            {
+                "scope": [
+                    "constant.language"
+                ],
+                "settings": {
+                    "foreground": "#7aa6e4"
+                }
+            }
+        ],
+        "strings": "#987f6c",
+        "keywords": "#414246",
+        "variables": "#7698a8",
+        "[Visual Studio Dark - C++]": {
+            "comments": "#b8ecef50",
+            "strings": "#987f6c",
+            "types": "#76a896",
+            "keywords": "#9576a8"
+        },
+        "comments": ""
+    }
+}
